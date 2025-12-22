@@ -1,0 +1,2 @@
+Jupyter notebook’u açın ve talimatları takip edin.
+
